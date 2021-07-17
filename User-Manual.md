@@ -1,13 +1,17 @@
-# What is the IIIF Manifest Editor
+# Что такое редактор манифеста IIIF 
 
 The aim of the IIIF Manifest Editor is to reduce the guess work and pure JSON editing when creating and/or manipulating manifests. It features a simple and easy-to-use interface with forms to edit the JSON value-pairs and drag-and-drop of images/canvases to facilitate the ordering and editing of the manifest without JSON knowledge. It will let you validate and download the created/modified IIIF manifest.
 
-# Installation
-See installation instructions of the README file on Github:
+
+Цель редактора манифеста IIIF - создавать из IIIF изображений манифесты и / или производить различные действия с уже готовыми манифестами. Редактор имеет простой и удобный интерфейс с формами для редактирования и перетаскивания изображений / холстов для облегчения упорядочивания и редактирования манифестов без знания JSON.  Редактор также позволит вам проверить и загрузить созданный / измененный манифест IIIF. 
+
+# Установка
+См. Инструкции по установке файла README на Github: 
 https://github.com/bodleian/iiif-manifest-editor/
 
 # Open and modify an existing IIIF manifest
 The start page of the application allows you to choose between creating a new manifest from scratch or open an existing manifest. Click on the "Open Manifest" button:
+Открыть и изменить существующий манифест IIIF Стартовая страница приложения позволяет вам выбирать между созданием нового манифеста с нуля или открытием существующего манифеста.  Нажмите кнопку «Открыть манифест»: 
 
 ![Start Page](https://user-images.githubusercontent.com/725398/28833494-c9c3e872-76df-11e7-8499-4840a6efd5d6.png)
 
